@@ -1,0 +1,1 @@
+Change the available camera selection depending on the path taken by the player (Use volumes?)
